@@ -1,7 +1,13 @@
 name: GitHub Metrics
 on:
-  schedule: [{cron: "0 2 * * *"}] # Daily at 2am UTC (10am CST)
+  schedule:
+    - cron: "0 2 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/metrics.yml"
 
 jobs:
   base-metrics:
