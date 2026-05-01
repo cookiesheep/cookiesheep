@@ -49,10 +49,10 @@
 
 <div align="center">
   <a href="https://github.com/cookiesheep/build-your-own-claude-code">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cookiesheep&repo=build-your-own-claude-code&theme=dark&hide_border=true&bg_color=0a0e27&title_color=7c3aed&icon_color=06b6d4&text_color=94a3b8" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cookiesheep&repo=build-your-own-claude-code&theme=dark&hide_border=true&bg_color=0a0a2e&title_color=7c3aed&icon_color=06b6d4&text_color=94a3b8" />
   </a>
   <a href="https://github.com/cookiesheep/claude-code-diy">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cookiesheep&repo=claude-code-diy&theme=dark&hide_border=true&bg_color=0a0e27&title_color=7c3aed&icon_color=06b6d4&text_color=94a3b8" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cookiesheep&repo=claude-code-diy&theme=dark&hide_border=true&bg_color=0a0a2e&title_color=7c3aed&icon_color=06b6d4&text_color=94a3b8" />
   </a>
 </div>
 
@@ -78,20 +78,12 @@
 <summary>📊 More Stats</summary>
 <br>
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=cookiesheep&show_icons=true&theme=dark&hide_border=true&bg_color=0a0e27&title_color=7c3aed&icon_color=06b6d4&text_color=94a3b8&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cookiesheep&layout=donut&theme=dark&hide_border=true&bg_color=0a0e27&title_color=7c3aed&text_color=94a3b8" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=cookiesheep&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a2e&title_color=7c3aed&icon_color=06b6d4&text_color=94a3b8&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cookiesheep&layout=donut&theme=dark&hide_border=true&bg_color=0a0a2e&title_color=7c3aed&text_color=94a3b8" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cookiesheep&theme=dark&hide_border=true&background=0A0E27&stroke=1E293B&ring=7C3AED&fire=06B6D4&currLabel=7C3AED&sideLabels=64748B&dates=94A3B8" width="60%" />
-</div>
-</details>
-
-<details>
-<summary>📈 Activity & Habits</summary>
-<br>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/cookiesheep/cookiesheep/main/metrics.activity.svg" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cookiesheep&theme=dark&hide_border=true&background=0A0A2E&stroke=1E1B4B&ring=7C3AED&fire=06B6D4&currLabel=7C3AED&sideLabels=64748B&dates=94A3B8" width="60%" />
 </div>
 </details>
 
