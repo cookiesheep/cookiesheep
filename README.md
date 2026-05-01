@@ -29,11 +29,26 @@
 
 ---
 
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cookiesheep/cookiesheep/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cookiesheep/cookiesheep/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/cookiesheep/cookiesheep/output/github-snake.svg" />
+</picture>
+
+---
+
 ### 🚀 Featured Projects
 
-- 🔧 [**build-your-own-claude-code**](https://github.com/cookiesheep/build-your-own-claude-code) — Learn how Claude Code works by building your own from scratch
-- 🛠 [**claude-code-diy**](https://github.com/cookiesheep/claude-code-diy) — A DIY implementation of Claude Code
-- 📚 [**edu-platform**](https://github.com/cookiesheep/edu-platform) — Educational platform built with modern web stack
+<div align="center">
+  <a href="https://github.com/cookiesheep/build-your-own-claude-code">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cookiesheep&repo=build-your-own-claude-code&theme=dark&hide_border=true" />
+  </a>
+  <a href="https://github.com/cookiesheep/claude-code-diy">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cookiesheep&repo=claude-code-diy&theme=dark&hide_border=true" />
+  </a>
+</div>
 
 ---
 
@@ -50,16 +65,6 @@
 </div>
 
 ---
-
-<details>
-<summary>🐍 Contribution Snake</summary>
-<br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cookiesheep/cookiesheep/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cookiesheep/cookiesheep/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/cookiesheep/cookiesheep/output/github-snake.svg" />
-</picture>
-</details>
 
 <details>
 <summary>🏆 GitHub Trophies</summary>
