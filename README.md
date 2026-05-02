@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1500&color=F97316&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=45&lines=Building+AI+tools+that+developers+love;Researching+speculative+decoding+for+LLM+serving;Open+source+enthusiast+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1500&color=00E5A0&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=45&lines=Building+AI+tools+that+developers+love;Researching+speculative+decoding+for+LLM+serving;Open+source+enthusiast+%E2%9C%A8" alt="Typing SVG" />
   </a>
 </div>
 
@@ -78,19 +78,19 @@
 <summary>📊 More Stats</summary>
 <br>
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=cookiesheep&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=f97316&icon_color=fbbf24&text_color=8b949e&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cookiesheep&layout=donut&theme=dark&hide_border=true&bg_color=0d1117&title_color=f97316&text_color=8b949e" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=cookiesheep&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00E5A0&icon_color=5EEAD4&text_color=8b949e&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cookiesheep&layout=donut&theme=dark&hide_border=true&bg_color=0d1117&title_color=00e5a0&text_color=8b949e" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cookiesheep&theme=dark&hide_border=true&background=0D1117&stroke=21262D&ring=F97316&fire=FBBF24&currLabel=F97316&sideLabels=484F58&dates=8B949E" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cookiesheep&theme=dark&hide_border=true&background=0D1117&stroke=21262D&ring=00E5A0&fire=5EEAD4&currLabel=00E5A0&sideLabels=484F58&dates=8B949E" width="60%" />
 </div>
 </details>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=cookiesheep&color=f97316&style=flat-square&label=VISITORS" alt="visitors" />
+  <img src="https://komarev.com/ghpvc/?username=cookiesheep&color=00e5a0&style=flat-square&label=VISITORS" alt="visitors" />
 </div>
 
 <div align="center">
